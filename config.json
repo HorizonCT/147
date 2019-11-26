@@ -1,0 +1,16 @@
+{
+  "discordToken": "NTc5NzMzNTgyNjkyNzQ1MjE3.XdztVw.DpVtQWJrRBgSHEmjNSp1O3wCur0",
+  "licenseKey": "H6ZZ-DATB-QNEL-XI7L",
+  "prefix": "!",
+  "googleApiKey": "AIzaSyBUYM48BMPW40sQWlkOJXe8SR9uDdSfiw8",
+  "colorEmbed": "008080",
+  "footerTxt": "Example Footer",
+  "activityTxt": "Example Activity",
+  "generic": {
+    "messages": {
+      "noPermissions": "Invalid Permissions",
+      "invalidSyntax": "Invalid Syntax",
+      "error": "Unknown Error"
+    }
+  }
+}
